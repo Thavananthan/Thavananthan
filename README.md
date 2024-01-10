@@ -10,7 +10,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm currently working on software Engineer at HUEX studio.
+- 🔭 I'm currently working on software Engineer at Wiley.
 - 🌱 I’m currently learning Flutter and .Net.
 - 👯 I’m looking to collaborate on Frontend-Web (React JS), Mobile (React Native) and BackEnd(Node JS) projects.
 - 🤔 I’m looking for help with React.
@@ -76,5 +76,5 @@
 <summary>
 Credits: [Thavananthan](https://github.com/Thavananthan)
 	<br>
-	Last Edited on: 04/oct/2021
+	Last Edited on: 08/Jan/2024
 </summary>	
